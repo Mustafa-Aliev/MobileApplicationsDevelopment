@@ -163,9 +163,9 @@ public class Logic
     /**
      *
      * @param length
-     *          the rectangle length
+     *          the first side
      * @param width
-     *          the rectangle wigth
+     *          the second side
      * @return
      *          the rectangle area
      */
@@ -176,9 +176,9 @@ public class Logic
     /**
      *
      * @param length
-     *          the rectangle length
+     *          the first side
      * @param width
-     *          the rectangle width
+     *          the second side
      * @return
      *          the rectangle perimeter
      */
@@ -211,9 +211,9 @@ public class Logic
     /**
      *
      * @param base
-     *          the triangle base
+     *          the first side
      * @param height
-     *          the triangle height
+     *          the second side
      * @return
      *          the right triangle area
      */
@@ -224,9 +224,9 @@ public class Logic
     /**
      *
      * @param base
-     *          the triangle base
+     *          the first side
      * @param height
-     *          the triangle height
+     *          the second side
      * @return
      *          the right triangle perimeter
      */
@@ -238,11 +238,11 @@ public class Logic
     /**
      *
      * @param length
-     *          the box length
+     *          the first side
      * @param width
-     *          the box width
+     *          the second side
      * @param depth
-     *          the box depth
+     *          the third side
      * @return
      *          the box volume
      */
@@ -253,11 +253,11 @@ public class Logic
     /**
      *
      * @param length
-     *          the box length
+     *          the first side
      * @param width
-     *          the box width
+     *          the second side
      * @param depth
-     *          the box depth
+     *          the third side
      * @return
      *          the box surface area
      */
